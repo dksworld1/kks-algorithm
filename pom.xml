@@ -6,8 +6,8 @@
 		<artifactId>pom-parent-with-java-util-libs</artifactId>
 		<version>4</version>
 	</parent>
-	<groupId>com.kks.test.jfreechart</groupId>
-	<artifactId>kks-test-jfreechart</artifactId>
+	<groupId>com.kks.test.algorithm</groupId>
+	<artifactId>kks-test-algorithm</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
 	<dependencies>
